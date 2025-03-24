@@ -22,3 +22,17 @@ Nmap (Network scanning)
 No root required
 
 Lightweight and fast execution.
+
+# USAGE:
+pkg update && pkg upgrade -y <br>
+pkg install git -y <br>
+pkg install python -y <br>
+git clone https://github.com/EASIN-6T9/ForestWolf.git <br>
+cd ForestWolf <br>
+pip install -r requirements.txt <br>
+python install.py <br>
+
+This tool is designed for ethical hackers and cybersecurity enthusiasts using Termux. Contributions and improvements are welcome!
+
+GitHub Link: [https://github.com/EASIN-6T9]
+
