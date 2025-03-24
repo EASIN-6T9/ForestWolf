@@ -12,7 +12,7 @@ SQLmap (SQL Injection testing)
 
 Exiftool (Metadata analysis)
 
-RED_Hawk (Resource analysis)
+RED_Hawk (Penetration testing)
 
 WAFW00F (Web Application Firewall detection)
 
