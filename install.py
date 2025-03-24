@@ -32,7 +32,7 @@ YouTube   :Xerathil
 def main_menu():
     os.system("clear")
     print(banner)
-    os.system("termux-open-urr https://youtube.com/@xerathil?si=sHpS9L1_dP8V49Sg")
+    os.system("termux-open-url https://youtube.com/@xerathil?si=sHpS9L1_dP8V49Sg")
     
     print(colored("1)Nmap\n2)Sqlmap\n3)Wafw00f\n4)RED HAWK\n5)Exiftool\n0)Exit",attrs=["bold"]))
     print(colored("=========================================================", "red", attrs=["bold"]))
